@@ -34,3 +34,45 @@ This repository currently serves as a place for brainstorming about a book for [
 - [Finding the top rail-trails in each state using mixed effects models](https://joshuamrosenberg.com/posts/find-the-top-rail-trails-in-each-state/)
 - [Explorations in Markov Chain Monte Carlo - comparing results from MCMCglmm and lme4](https://joshuamrosenberg.com/posts/explorations-in-markov-chain-monte-carlo-mcmc/)
 
+## Chapters
+
+### Background
+
+1. Which product should I buy? Developing an intuition for how multi-level models work
+1. A buffet of groups: How multi-level models can be used for a variety of data types
+1. Introduction to running a multi-level model in R (using the lme4. 
+package)
+1. How estimates and their standard errors change: How results from multi-level models differ from those from regression models
+
+### Applications
+
+#### Foundational Applications
+
+1. A two-level model for cases nested within groups
+1. A two-level model for repeated measures of observations within groups
+1. A three-level model for cases nested within groups nested within higher-level groups
+
+#### Extending Multi-level Models
+
+1. Random slopes for effects of interest
+1. Longitudinal analyses
+1. Arbitrary numbers of groups
+
+#### Cross-classification
+
+1. Cross-classified network data
+1. Cross-classified ESM data
+1. Cross-classification within educational games
+
+### Extensions
+
+1. Modeling variability using intra-class correlations
+1. "Keep it maximal?": What should be a random effect
+1. Arbitrary numbers of groups
+1. MCMC estimation and Bayesian methods
+
+### Appendix
+
+1. Primer on core statistical concepts
+1. Primer on RStudio, R, and RMarkdown
+1. Primer on the tidyverse set of R packages
