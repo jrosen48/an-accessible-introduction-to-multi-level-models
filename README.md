@@ -1,5 +1,7 @@
 #An Accessible Introduction to Multi-level (or Mixed Effects) Models
 
+This repository currently serves as a place for brainstorming about a book for [Ed Tech Books](https://edtechbooks.org/).
+
 ## Applications
 
 - network data, with relations nested in groups
@@ -21,3 +23,5 @@
 - Fruits
 - Reviews on review websites
 - Relations *between* students in a class
+
+
