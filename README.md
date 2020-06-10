@@ -1,4 +1,4 @@
-#An Accessible Introduction to Multi-level (or Mixed Effects) Models
+# An Accessible Introduction to Multi-level (or Mixed Effects) Models
 
 This repository currently serves as a place for brainstorming about a book for [Ed Tech Books](https://edtechbooks.org/).
 
