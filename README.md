@@ -29,4 +29,8 @@ This repository currently serves as a place for brainstorming about a book for [
 
 - [Data Science-ish](https://github.com/jrosen48/data-science-ish)
 - [Multiple Uses for Multi-Level Models](https://joshuamrosenberg.com/posts/multiple-uses-for-multi-level-models-examples-from-recent-research/)
+- [Comparing estimates and their standard errors from mixed effects and linear models
+](https://joshuamrosenberg.com/posts/comparing-mixed-effects-and-linear-models/)
+- [Finding the top rail-trails in each state using mixed effects models](https://joshuamrosenberg.com/posts/find-the-top-rail-trails-in-each-state/)
+- [Explorations in Markov Chain Monte Carlo - comparing results from MCMCglmm and lme4](https://joshuamrosenberg.com/posts/explorations-in-markov-chain-monte-carlo-mcmc/)
 
