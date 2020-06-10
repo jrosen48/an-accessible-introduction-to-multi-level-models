@@ -25,4 +25,8 @@ This repository currently serves as a place for brainstorming about a book for [
 - Reviews on review websites
 - Relations *between* students in a class
 
+## Resources
+
+- [Data Science-ish](https://github.com/jrosen48/data-science-ish)
+- [Multiple Uses for Multi-Level Models](https://joshuamrosenberg.com/posts/multiple-uses-for-multi-level-models-examples-from-recent-research/)
 
