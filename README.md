@@ -39,40 +39,39 @@ This repository currently serves as a place for brainstorming about a book for [
 ### Background
 
 1. Which product should I buy? Developing an intuition for how multi-level models work
-1. A buffet of groups: How multi-level models can be used for a variety of data types
-1. Introduction to running a multi-level model in R (using the lme4. 
-package)
-1. How estimates and their standard errors change: How results from multi-level models differ from those from regression models
+2. A buffet of groups: How multi-level models can be used for a variety of data types
+3. Introduction to running a multi-level model in R (using the lme4 package)
+4. How estimates and their standard errors change: How results from multi-level models differ from those from regression models
 
 ### Applications
 
 #### Foundational Applications
 
-1. A two-level model for cases nested within groups
-1. A two-level model for repeated measures of observations within groups
-1. A three-level model for cases nested within groups nested within higher-level groups
+5. A two-level model for cases nested within groups
+6. A two-level model for repeated measures of observations within groups
+7. A three-level model for cases nested within groups nested within higher-level groups
 
 #### Extending Multi-level Models
 
-1. Random slopes for effects of interest
-1. Longitudinal analyses
-1. Arbitrary numbers of groups
+8. Random slopes for effects of interest
+9. Longitudinal analyses
+10. Arbitrary numbers of groups
 
 #### Cross-classification
 
-1. Cross-classified network data
-1. Cross-classified ESM data
-1. Cross-classification within educational games
+11. Cross-classified network data
+12. Cross-classified ESM data
+13. Cross-classification within educational games
 
 ### Extensions
 
-1. Modeling variability using intra-class correlations
-1. "Keep it maximal?": What should be a random effect
-1. Arbitrary numbers of groups
-1. MCMC estimation and Bayesian methods
+14. Modeling variability using intra-class correlations
+15. "Keep it maximal?": What should be a random effect
+16. Arbitrary numbers of groups
+17. MCMC estimation and Bayesian methods
 
 ### Appendix
 
-1. Primer on core statistical concepts
-1. Primer on RStudio, R, and RMarkdown
-1. Primer on the tidyverse set of R packages
+- Primer on core statistical concepts
+- Primer on RStudio, R, and RMarkdown
+- Primer on the tidyverse set of R packages
